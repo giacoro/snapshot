@@ -1,18 +1,18 @@
-### Opening an issue
+### Aprire un report
 
-You should usually open an issue in the following situations:
+Dovresti aprire un report in queste situazioni:
 
-* Report an error you can’t solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Reporta qualcosa che non riesci a risolvere da solo
+* Discuti di topic di alto livello o di un' idea (per esempio, community, vision or politiche)
+* Proponi una nuova idea o miglioramento
 
-Tips for communicating on issues:
+Consigli per comunicare i problemi:
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened a while ago,** it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### Aprire un report
 
 You should usually open a pull request in the following situations:
 
@@ -23,7 +23,7 @@ A pull request doesn’t have to represent finished work. It’s usually better 
 
 If the project is on GitHub, here’s how to submit a pull request:
 
-* **Fork the repository** and clone it locally. Connect your local to the original repository by adding it as a remote. Pull in changes from this repository often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+* **Forka il repository** e clonalo localmente. Connetti la tua locale to the original repository by adding it as a remote. Pull in changes from this repository often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
 * **Create a branch** for your edits.
 * **Reference any relevant issues** or supporting documentation in your PR (for example, “Closes #37.”)
 * **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
